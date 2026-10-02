@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>web arya</title>
+	<title>web arya new</title>
 	
 </head>
 <body>
-	<h1>web judol</h1>
+	
 	<p>ini tulisan</p> <br>
 	<p>ini paragraf baru </p>
-
+	<h2> ini branch baru</h2>
 
 </body>
