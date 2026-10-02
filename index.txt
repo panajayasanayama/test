@@ -6,7 +6,8 @@
 </head>
 <body>
 	<h1>web judol</h1>
-	<p>ini tulisan</p>
+	<p>ini tulisan</p> <br>
+	<p>ini paragraf baru </p>
 
 
 </body>
