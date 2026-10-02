@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>web arya</title>
+	
+</head>
+<body>
+	<h1>web judol</h1>
+	<p>ini tulisan</p>
+
+
+</body>
